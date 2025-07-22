@@ -1,7 +1,7 @@
 ---
 title: v-model与三元表达式
 date: 2025-7-21
-tags: vue
+tags: vue2
 categories: vue
 ---
 

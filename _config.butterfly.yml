@@ -222,7 +222,7 @@ toc:
   # 是否在页面中显示目录
   page: false
   # 是否显示目录编号
-  number: true
+  number: false
   # 是否默认展开目录
   expand: false
   # 是否使用简洁风格（仅适用于文章）
@@ -278,7 +278,7 @@ related_post:
 # 1: “下一篇文章”将链接到旧文章
 # 2: “下一篇文章”将链接到新文章
 # false: 禁用分页
-post_pagination: 1
+post_pagination: 2
 
 # 显示文章过期通知
 noticeOutdate:
