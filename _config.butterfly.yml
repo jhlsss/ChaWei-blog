@@ -82,7 +82,7 @@ tag_img:
 # 标签页的横幅图片，可以为每个标签设置横幅图片
 # 格式:
 #  - 标签名: 图片链接
-tag_per_img:
+tag_per_img: 
 
 # 注意: 是分类页（单个分类），不是分类页面（所有分类）
 category_img: 
@@ -865,7 +865,7 @@ theme_color:
 #   按钮悬停颜色
   button_hover: "#B99EFB" #49B1F5
 #   文本选择颜色
-  text_selection: "#00c4b6"
+  text_selection: "#B99EFB"
 #   链接颜色
   link_color: "#99a9bf"
 #   元数据颜色
